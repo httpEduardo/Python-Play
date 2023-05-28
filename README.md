@@ -1,42 +1,42 @@
-# Python
+# Pitão
 
-## Learning Python
+## Aprendendo Python
 
 -[]
 https://app.pluralsight.com/library/courses/getting-started-python-core/learning-check
 * [Practical Python](https://github.com/dabeaz-course/practical-python)
 
-## Resources
+## Recursos
 
-* https://learnpythonthehardway.org/book/ (Learn Python the hard way, free ebook online)
+* https://learnpythonthehardway.org/book/ (Aprenda Python da maneira mais difícil, ebook gratuito online)
 * https://www.learnpython.org/
 * https://realpython.com/
 * https://realpython.com/learning-paths/python-devops
 
-## Requirements
+## Requisitos
 
 ```
-# install pip (in ubuntu)
+# instale o pip (no ubuntu)
 sudo apt install python-pip
-# for python3
+# para python3
 sudo apt install python3-pip
 
-# download a module (example with 'requests' module)
-pip install requests
-# install jinja
-pip3 install jinja2
+# baixe um módulo (exemplo com o módulo 'requests')
+solicitações de instalação do pip
+# instalar jinja
+pip3 instalar jinja2
 ```
 
-## Exercices to explore
+## Exercícios para explorar
 
-* Working with files and folders
-* Rest API Call
-* Building an HTML report
-* Lint Test
-* Download packages
-* Build function
-* Pass parameters to functions, script
-* Build module
-* Querying local and remote machine over different protocol
+* Trabalhando com arquivos e pastas
+* Chamada de API Rest
+* Construindo um relatório HTML
+* Teste de fiapos
+* Baixar pacotes
+* Função de construção
+* Passe parâmetros para funções, script
+* Módulo de construção
+* Consultando máquinas locais e remotas em diferentes protocolos
 
 ### Python-Play
